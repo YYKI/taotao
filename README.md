@@ -10,7 +10,7 @@
 - 单点登录系统：为多个系统之间提供用户登录凭证以及查询登录用户的信息。
  
 ### 分布式系统架构
- 
+ ![](https://github.com/YYKI/pictures/blob/master/taotao.png?raw=true)
 ### 技术选型（主要技术）
 - Spring、SpringMVC、Mybatis
 - JSP、JSTL、jQuery、jQuery plugin、EasyUI、KindEditor（富文本编辑器）、CSS+DIV
